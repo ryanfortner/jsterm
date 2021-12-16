@@ -1,2 +1,4 @@
 # jsterm
-fake terminal for my website
+Fake terminal for my website
+
+Based on [hellopablo/faketerminal](https://github.com/hellopablo/faketerminal)
